@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <Container fluid className='d-flex justify-content-center align-items-center' id='projects'>
       <h1>Projects</h1>
-      <CardDeck card-img-top style={{ width: '150vh' }}>
+      <CardDeck card-img-top>
         <Card>
           <Card.Img variant='top' src={starwarsplanets} />
           <Card.Body>

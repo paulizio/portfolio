@@ -209,7 +209,7 @@
   display: block;
   margin-top: 2vh;
   height: 20vh;
-  width: 70vh;
+  max-width: 100%;
   background: 'white';
   margin-left: auto;
   margin-Right: auto;

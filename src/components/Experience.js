@@ -6,7 +6,7 @@ const Experience = () => {
     <Container fluid className='d-flex vh-100 justify-content-center align-items-center' id='experience'>
       <h1 className='text-white' style={{ fontSize: '8vh', paddingBottom: '3vh' }}>Work experience</h1>
       <a href='https://www.heeros.com' target='_blank' rel='noreferrer'>
-        <div style={{ height: '25vh', width: '75vh' }}>
+        <div style={{ height: '25vh' }}>
           <div class='hovereffect'>
             <img className='img-responsive' src={heeroslogo} alt='' />
             <div className='overlay'>
