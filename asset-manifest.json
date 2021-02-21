@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9e725988.chunk.css",
+    "main.css": "/portfolio/static/css/main.f45f5f03.chunk.css",
     "main.js": "/portfolio/static/js/main.13be6356.chunk.js",
     "main.js.map": "/portfolio/static/js/main.13be6356.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
@@ -10,7 +10,7 @@
     "static/js/2.6abb5097.chunk.js.map": "/portfolio/static/js/2.6abb5097.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.9e725988.chunk.css.map": "/portfolio/static/css/main.9e725988.chunk.css.map",
+    "static/css/main.f45f5f03.chunk.css.map": "/portfolio/static/css/main.f45f5f03.chunk.css.map",
     "static/js/2.6abb5097.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6abb5097.chunk.js.LICENSE.txt",
     "static/media/heeroslogo.7649a354.png": "/portfolio/static/media/heeroslogo.7649a354.png",
     "static/media/iconfinder_laptop_job_seeker_employee_unemployee_work_2620514.acaf9d44.svg": "/portfolio/static/media/iconfinder_laptop_job_seeker_employee_unemployee_work_2620514.acaf9d44.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.8fed2963.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.6abb5097.chunk.js",
-    "static/css/main.9e725988.chunk.css",
+    "static/css/main.f45f5f03.chunk.css",
     "static/js/main.13be6356.chunk.js"
   ]
 }
